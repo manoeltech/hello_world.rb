@@ -1,1 +1,4 @@
-puts "Hello, world!"
+@name = "Manoel"
+
+puts "Hello, world, #{@name}!"
+
